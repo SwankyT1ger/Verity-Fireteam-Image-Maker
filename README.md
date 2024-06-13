@@ -30,6 +30,8 @@ How to Install the zip file
 
 - Roster must be bound to 'u'
 
+- Character menu must be bound to 'i'
+
 If you have any questions feel free to message .swanky on discord
 
 ## Video
