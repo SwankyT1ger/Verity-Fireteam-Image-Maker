@@ -51,7 +51,7 @@ F3::
         }
         else if (!selfie_taken) {
             num_guardians++
-            Send i
+            Send {F1}
             Sleep 500
             Send s
             Sleep, % delay_time
