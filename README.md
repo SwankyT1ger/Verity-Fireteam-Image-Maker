@@ -33,7 +33,7 @@ How to Install the zip file
 If you have any questions feel free to message .swanky on discord
 
 ## Video
-- **Coming Soon**
+- [Verity Encounter Fireteam Image Maker [Salvation's Edge] ](https://youtu.be/5HUKfQAvlUw?si=LeV5oSYOmS_-V5lR)
 
 ## Credit
 - Credit to A2TC-YT for contribution and check out his [GitHub](https://github.com/A2TC-YT) for more Destiny macros
