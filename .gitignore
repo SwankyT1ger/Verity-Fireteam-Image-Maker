@@ -1,5 +1,0 @@
-# ignore .png
-*.png
-
-# ignore Bin directory
-Bin/
