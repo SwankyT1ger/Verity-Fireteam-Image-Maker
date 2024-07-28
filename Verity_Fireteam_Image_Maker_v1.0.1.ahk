@@ -2,7 +2,7 @@ SetWorkingDir, %A_ScriptDir%
 #SingleInstance, force
 CoordMode, Pixel, Screen
 CoordMode, Mouse, Screen
-#include Gdip_All.ahk
+#include Gdip_all.ahk
 pToken := Gdip_Startup()
 
 if (!FileExist(A_ScriptDir "\Bin"))
