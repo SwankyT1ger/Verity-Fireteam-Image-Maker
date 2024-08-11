@@ -13,6 +13,9 @@ return
 F3::
 {
     InputBox, delay_time, Fireteam Image Maker, Input the amount of time to wait after inspecting a player.`nDefault: 2000`nIncrease this number if loading slowly.
+    if (delay_time = "") {
+        delay_time := 2000 ; default value
+    }
     Send u
     Sleep 1000
 
